@@ -2,7 +2,7 @@
 
 ### Description
 
-This repo accompanies the "Real quick GraphQL service with AWS Amplify & Appsync" video tutorial - https://youtu.be/cPUR2zYNA8A
+Starter Code for Reason, Nextjs
 
 ### Setup
 
@@ -14,8 +14,7 @@ This repo accompanies the "Real quick GraphQL service with AWS Amplify & Appsync
 Then get up and running with:
 
 ```
-git clone https://github.com/eastuto/my-blog-01.git
-cd my-blog-01 
+git clone 
 yarn
 yarn dev:reason
 yarn dev 
